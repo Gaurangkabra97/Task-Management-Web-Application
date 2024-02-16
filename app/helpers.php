@@ -1,0 +1,5 @@
+<?php 
+CONST ADMIN_ROLE = 1;
+CONST USER_ROLE = 3;
+
+?>
